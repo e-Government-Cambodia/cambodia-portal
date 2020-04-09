@@ -1,5 +1,5 @@
 // import external dependencies
-import 'jquery';
+import 'cnphtml/resources/assets/scripts/main.js';
 
 // Import everything from autoload
 import './autoload/**/*'
