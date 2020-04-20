@@ -1,2 +1,5 @@
 // TODO: .banner .nav li {}
 // TODO: .banner .nav a {}
+
+// @include media-breakpoint-up(md) { .navbar ul.nav { > li { display: table-cell; position: relative; > a { margin-right: 30; color: #343a40;font-size: 18px;padding-top: 15px;padding-bottom: 15px;padding-left: 20px;padding-right: 20px;} } } }
+

@@ -15,6 +15,12 @@
 
 /** Import theme styles */
 
+/* line 1, resources/assets/styles/common/_global.scss */
+
+.alert {
+  margin-bottom: 2rem;
+}
+
 /** Search form */
 
 /**
