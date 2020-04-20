@@ -4,7 +4,15 @@ composer.phar
 # Commit your application's lock file https://getcomposer.org/doc/01-basic-usage.md#commit-your-composer-lock-file-to-version-control
 # You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
 # composer.lock
-/.cache-loader/
+.cache-loader
 node_modules
 npm-debug.log
 yarn-error.log
+.cache-loader/06da3e4c15df443f60590ebba81e48c4.json
+.cache-loader/08553c23b856d113e583c4105267b118.json
+.cache-loader/2b467024b396c90394a0636d4d60ce49.json
+.cache-loader/48cf45efa3e4d02403fe01c9695b53fe.json
+.cache-loader/7aeee9f2e700d50ae5c4f7648d3ae1c4.json
+.cache-loader/7e024911ddf2134f18343c161084311e.json
+.cache-loader/e352a8afa6c54e60270766ab90d7c701.json
+.cache-loader/fc4ecb6d0007edc6fa6e75664fba720b.json
